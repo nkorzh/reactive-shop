@@ -1,0 +1,5 @@
+spring.data.r2dbc.repositories.enabled: true
+
+currency:
+  url: https://api.apilayer.com/exchangerates_data/live
+  token: '***'
